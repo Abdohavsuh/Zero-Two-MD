@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+<h1 align="center">🍭 𝐊𝐈𝐑𝐀 𝗠𝗗 🍭<br></h1>
 <p align="center">
   <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
 </p>
@@ -287,7 +287,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@light`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
