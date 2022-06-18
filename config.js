@@ -1,10 +1,10 @@
 /*
-                                                                       © 𝐙𝐞𝐫𝐨 𝐓𝐰𝐨 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 by Team Zero Two ©
+                                                                       © 𝐊𝐈𝐑𝐀 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 by Team KIRA ©
                                                                        IF you want to copy this code you must have to keep
                                                                        this copyright section.
                                                                        
                                                                        OtherWise We will sue you for sure.
-                                                                       Thanks to Team Zero and Xeon
+                                                                       Thanks to Team KIRA and Xeon
                                                                         
 								
 
@@ -49,14 +49,14 @@ var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x263
 global.owner = ['971566015460','971566015460','971566015460' , '971566015460' , '971566015460'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['971566015460'] //another owner number
 global.premium = ['971566015460'] //premium number
-global.pengguna = 'Zero-Two' //username
-global.botnma = 'Zero-Two' //bot name
-global.watermark = "ENJOY WITH ZERO TWO"
+global.pengguna = 'KIRA' //username
+global.botnma = 'KIRA' //bot name
+global.watermark = "ENJOY WITH KIRA"
 global.dogeemoji = "✨"
-global.botname = 'Zero-Two'
-global.ownernma = 'Team Zero Two' //owner name
-global.ownername = 'Zero Two' //owner name
-global.packname = 'Zero-Two ' //sticker package name
+global.botname = 'KIRA'
+global.ownernma = 'Team KIRA' //owner name
+global.ownername = 'KIRA' //owner name
+global.packname = 'KIRA ' //sticker package name
 global.author = 'Dont Steal' //sticker author name
 global.sessionName = 'session.sam' //session name
 global.linkgrupss = "https://instagam.com/ikshwaku.pandey" //ur gc link
