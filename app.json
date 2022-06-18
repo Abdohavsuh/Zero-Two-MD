@@ -3,8 +3,7 @@
     "description": "A Whatsapp md bot build with nodejs",
     "repository": "https://github.com/Abdohavsuh/Zero-Two-MD",
     "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
-    "keywords": ["nodejs", "bot", "whatsapp bot", "
-                 ", "multi device"],
+    "keywords": ["nodejs", "bot", "whatsapp bot", "KIRA", "multi device"],
     "success_url": "/",
     "buildpacks": [{
             "url": "heroku/nodejs"
